@@ -6,4 +6,3 @@ I've also implemented the KittiDataModule - a class that conveniently prepares t
 
 <img src="u-net-architecture.png" width="500"/>
 
-![](u-net-architecture.png, width='30')
