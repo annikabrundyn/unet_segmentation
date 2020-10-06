@@ -4,4 +4,4 @@ This model is designed as template for semantic segmentation tasks using a UNet 
 
 I've also implemented the KittiDataModule - a class that conveniently prepares the KITTI segmentation dataset as PyTorch dataloaders. Note, you first have to download the KITTI dataset and provide the local path to the data.
 
-![0.3](u-net-architecture.png)
+![](u-net-architecture.png, width='30')
